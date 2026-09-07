@@ -1,7 +1,7 @@
 import { Quest, CrowdHotspot, ArtisanVendor, UserBadge } from '../types';
 
 export const INITIAL_USER_PROFILE = {
-  name: 'Aanya Sharma',
+  name: 'Ananya Sinha',
   avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80',
   level: 3,
   currentXp: 740,
